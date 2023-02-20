@@ -1,0 +1,2 @@
+This is my buffer write
+This is my second line of buffer

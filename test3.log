@@ -1,0 +1,12 @@
+2023-02-12 21:24:01,147 root INFO start of for loop [1, 2, 3, 4, [4, 5, 6], 'anirudhra']
+2023-02-12 21:24:01,147 root INFO this is value of i am logging 1
+2023-02-12 21:24:01,147 root INFO start of for loop [1, 2, 3, 4, [4, 5, 6], 'anirudhra']
+2023-02-12 21:24:01,148 root INFO this is value of i am logging 2
+2023-02-12 21:24:01,148 root INFO start of for loop [1, 2, 3, 4, [4, 5, 6], 'anirudhra']
+2023-02-12 21:24:01,148 root INFO this is value of i am logging 3
+2023-02-12 21:24:01,148 root INFO start of for loop [1, 2, 3, 4, [4, 5, 6], 'anirudhra']
+2023-02-12 21:24:01,148 root INFO this is value of i am logging 4
+2023-02-12 21:24:01,148 root INFO start of for loop [1, 2, 3, 4, [4, 5, 6], 'anirudhra']
+2023-02-12 21:24:01,148 root INFO this is value of i am logging [4, 5, 6]
+2023-02-12 21:24:01,148 root INFO start of for loop [1, 2, 3, 4, [4, 5, 6], 'anirudhra']
+2023-02-12 21:24:01,148 root INFO this is value of i am logging anirudhra

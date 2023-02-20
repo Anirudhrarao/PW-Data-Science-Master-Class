@@ -1,0 +1,20 @@
+INFO:root:this is line of execution
+ERROR:root:This is error
+CRITICAL:root:This is critical
+WARNING:root:Warnings are there guys
+WARNING:root:Warnings are there guys
+INFO:root:this is line of execution
+ERROR:root:This is error
+CRITICAL:root:This is critical
+WARNING:root:Warnings are there guys
+INFO:root:this is Info
+INFO:root:this is Info
+INFO:root:this is Info
+INFO:root:this is line of execution
+ERROR:root:This is error
+CRITICAL:root:This is critical
+WARNING:root:Warnings are there guys
+INFO:root:this is line of execution
+ERROR:root:This is error
+CRITICAL:root:This is critical
+WARNING:root:Warnings are there guys
